@@ -1,3 +1,14 @@
+### some snapshots :
+
+![phonedir1](https://user-images.githubusercontent.com/26687042/54323170-021e1580-461e-11e9-9833-f4d0542539fd.png)
+
+![phonedir2](https://user-images.githubusercontent.com/26687042/54323171-02b6ac00-461e-11e9-9cbc-c099050bd0b9.png)
+
+![phonedir3](https://user-images.githubusercontent.com/26687042/54323172-02b6ac00-461e-11e9-8638-425f0feeaaaa.png)
+
+![phonedir4](https://user-images.githubusercontent.com/26687042/54323173-034f4280-461e-11e9-9f9a-8b95a68a2b17.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
